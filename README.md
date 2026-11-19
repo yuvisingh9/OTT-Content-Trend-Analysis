@@ -85,13 +85,9 @@ Place the dataset in the project directory before running the notebook. The data
 
 5. Open `notebooks/OTT_Content_Trend_Analysis.ipynb` and run the notebook cells.
 
-## Project Limitations
-- The analysis is based on Netflix dataset information.
-- The dataset does not provide actual audience viewership or streaming performance.
-- Findings should not be interpreted as a comparison between different OTT platforms.
 
 ## Author
-**Your Name**
+**Yuvraj Kumar Singh**
 
 ## Skills Demonstrated
 - Data Cleaning
